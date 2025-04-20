@@ -1,0 +1,1 @@
+This project is an interactive dashboard built with Streamlit that helps predict the risk of heart disease based on patient information. You can upload a CSV file, explore the data through visualizations, train a machine learning model (Random Forest), and make live predictions using a user-friendly interface.
